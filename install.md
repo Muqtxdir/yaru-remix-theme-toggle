@@ -10,9 +10,15 @@ The extension can be installed directly from source, either for the convenience 
 - Install the User-themes extension from [here](https://extensions.gnome.org/extension/19/user-themes/).
 
 ### Installation:
-```bash
-git clone https://github.com/Muqtxdir/yaru-blue-theme-toggle.git
-```
+- `git clone https://github.com/Muqtxdir/yaru-blue-theme-toggle.git`
+
+- `cd yaru-blue-theme-toggle`
+
+- `meson build`
+-  `cd build`
+
+- `sudo ninja install`
+
 - After install a logout is required
 
 - Enable *Yaru-blue-theme-toogle* with **GNOME-Tweaks** or  **extensions** or **dconf**
