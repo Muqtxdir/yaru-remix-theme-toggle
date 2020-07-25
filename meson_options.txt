@@ -1,0 +1,2 @@
+option('yarubluethemetoggle', type: 'boolean', value: true, description:'build gnome shell extension component')
+

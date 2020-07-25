@@ -12,12 +12,8 @@ The extension can be installed directly from source, either for the convenience 
 ### Installation:
 ```bash
 git clone https://github.com/Muqtxdir/yaru-blue-theme-toggle.git
-
-cd yaru-blue-theme-toggle
-
-make install
 ```
-After install a logout is required
+- After install a logout is required
 
-Enable *Yaru-blue-theme-toogle* with **GNOME-Tweaks** or  **extensions** or **dconf**
+- Enable *Yaru-blue-theme-toogle* with **GNOME-Tweaks** or  **extensions** or **dconf**
 
