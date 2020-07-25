@@ -50,11 +50,18 @@ function set_theme(theme) {
 function set_theme_label(theme){
     if(theme == "Yaru-blue") {
         this.themeMenu.label.text = "Standard Theme";
+        this.themeMenu.icon.icon_name = "weather-few-clouds-symbolic";
+
     } else if (theme == "Yaru-blue-light") {
         this.themeMenu.label.text = "Light Theme";
+        this.themeMenu.icon.icon_name = "weather-clear-symbolic";
+
     }
     else if (theme == "Yaru-blue-dark") {
         this.themeMenu.label.text = "Dark Theme"
+        this.themeMenu.icon.icon_name = "weather-clear-night-symbolic";
+
+
     }
 }
 
