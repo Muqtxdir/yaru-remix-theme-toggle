@@ -11,9 +11,13 @@ The extension can be installed directly from source, either for the convenience 
 
 ### Installation:
 ```git clone https://github.com/Muqtxdir/yaru-blue-theme-toggle.git```
+
 ```cd yaru-blue-theme-toggle```
+
 ```meson build```
+
 ```cd build```
+
 ```sudo ninja install```
 
 - After install a logout is required
