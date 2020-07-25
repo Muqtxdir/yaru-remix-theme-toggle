@@ -1,6 +1,6 @@
 ## Yaru-blue-theme-toggle
 
-Yaru-blue-theme-toggle is a gnome-shell-extension based on [Pop-theme-toggle](https://extensions.gnome.org/extension/1399/pop-theme-toggle/)
+Yaru-blue-theme-toggle is a gnome-shell-extension.
 
 ## Functions:
 - Switches from any **GTK3-theme** to [Yaru-blue](https://github.com/Muqtxdir/yaru-blue) **GTK3-themes**.
