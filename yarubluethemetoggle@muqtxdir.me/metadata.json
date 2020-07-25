@@ -1,0 +1,15 @@
+{
+	"name": "Yaru-blue  Theme Toggle",
+	"original-authors": [
+        "jacob@mischka.me"
+    ],
+	"description": "Toggles between Yaru-blue, Yaru-blue light and Yaru-blue-dark themes",
+	"uuid": "yaru-blue-theme-toggle@muqtxdir.me",
+	"url": "https://github.com/Muqtxdir/yaru-blue-theme-toggle",
+	"shell-version": [
+		"3.30.1",
+		"3.32",
+		"3.34",
+		"3.36"
+	]
+}
