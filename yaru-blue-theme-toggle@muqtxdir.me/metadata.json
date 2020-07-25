@@ -1,13 +1,13 @@
 {
-	"name": "Yaru-blue  Theme Toggle",
-	"original-authors": [
-        "jacob@mischka.me"
+	"name": "Yaru-blue Theme Toggle",
+	"authors": [
+        "muqtadir5555@gmail.com"
     ],
-	"description": "Toggles between Yaru-blue, Yaru-blue light and Yaru-blue-dark themes",
+	"description": "Switches GTK3, Gnome-shell and icon themes to Yaru-blue variants",
+	"version": "20.04",
 	"uuid": "yaru-blue-theme-toggle@muqtxdir.me",
 	"url": "https://github.com/Muqtxdir/yaru-blue-theme-toggle",
 	"shell-version": [
-		"3.30.1",
 		"3.32",
 		"3.34",
 		"3.36"
