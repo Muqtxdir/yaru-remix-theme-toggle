@@ -10,17 +10,17 @@ Yaru-blue-theme-toggle is a gnome-shell-extension based on [Pop-theme-toggle](ht
 ## Installation:
 If you would like to try this gnome-shell-extension, please follow instructions from [here](install.md).
 
-##Screenshots:
+## Screenshots:
 
-**Extension in PopMenu:**
+## Extension in Menu:
 ![yaru-blue-theme-toggle-extension](screenshots/yaru-blue-theme-toggle-extension.png)
 
-**Switching to Yaru-blue-light:**
+## Switching to Yaru-blue-light:
 ![light](screenshots/light.png)
 
-**Switching to Yaru-blue-standard:**
+## Switching to Yaru-blue-standard:
 ![standard](screenshots/default.png)
 
-**Switching to Yaru-blue-dark:**
+## Switching to Yaru-blue-dark:
 ![dark](screenshots/dark.png)
 
