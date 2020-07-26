@@ -40,11 +40,11 @@ sudo ninja install
 - To uninstall all yaru-blue-theme-toggle, simply run the following.
 
 ```bash
-cd yaru-blue
+ cd yaru-blue-theme-toggle
 
-cd build
+ cd build
 
-sudo ninja uninstall
+ sudo ninja uninstall
 ```
 - After uninstall, a logout  or shell-restart (ALt+F2 => r) is required
 
