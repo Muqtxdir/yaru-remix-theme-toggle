@@ -1,7 +1,6 @@
-## Yaru-remix-theme-toggle
-
 ![yaru-remix-toggle](screenshots/yaru-remix-toggle.png)
 
+## Yaru-remix-theme-toggle
 Yaru-remix-theme-toggle is a based on [Pop-toggle](https://github.com/kylecorry31/gnome-shell-extension-pop-theme-toggle)
 
 ## Functions:
