@@ -1,6 +1,6 @@
 ## Yaru-remix-theme-toggle
 
-	![yaru-remix-toggle](screenshots/yaru-remix-toggle.png)
+![yaru-remix-toggle](screenshots/yaru-remix-toggle.png)
 
 Yaru-remix-theme-toggle is a gnome-shell-extension.
 
