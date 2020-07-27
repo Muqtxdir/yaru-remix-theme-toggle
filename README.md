@@ -15,7 +15,7 @@ If you would like to try this gnome-shell-extension, please follow instructions 
 ## Screenshots:
 
 ### Extension in Menu:
-![yaru-remix-theme-toggle-extension](screenshots/yaru-remix-theme-toggle-extension.png)
+![yaru-remix-theme-toggle-extension](screenshots/yaru-remix-theme-toggle.png)
 
 ### Switching to Yaru-remix-light:
 ![light](screenshots/light.png)
