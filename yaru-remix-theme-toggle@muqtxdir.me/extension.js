@@ -13,26 +13,26 @@ function enable() {
     this.mainMenu.addMenuItem(themeMenu, 8);
     this.themeMenu.icon.icon_name = "preferences-ubuntu-panel-symbolic";
 
-    this.standard = new PopupMenu.PopupMenuItem("Yaru blue");
+    this.standard = new PopupMenu.PopupMenuItem("Yaru remix");
     this.standard.connect('activate', (item, event) => {
         this.reset_ornament();
-        this.set_theme("Yaru-blue");
+        this.set_theme("Yaru-remix");
         item.setOrnament(Ornament.DOT);
     });
     this.themeMenu.menu.addMenuItem(this.standard, 0);
 
-    this.light = new PopupMenu.PopupMenuItem("Yaru blue light");
+    this.light = new PopupMenu.PopupMenuItem("Yaru remix light");
     this.light.connect('activate', (item, event) => {
         this.reset_ornament();
-        this.set_theme("Yaru-blue-light");
+        this.set_theme("Yaru-remix-light");
         item.setOrnament(Ornament.DOT);
     });
     this.themeMenu.menu.addMenuItem(this.light, 1);
 
-    this.dark = new PopupMenu.PopupMenuItem("Yaru blue dark");
+    this.dark = new PopupMenu.PopupMenuItem("Yaru remix dark");
     this.dark.connect('activate', (item, event) => {
         this.reset_ornament();
-        this.set_theme("Yaru-blue-dark");
+        this.set_theme("Yaru-remix-dark");
         item.setOrnament(Ornament.DOT);
     });
     this.themeMenu.menu.addMenuItem(this.dark, 2);
@@ -48,16 +48,16 @@ function set_theme(theme) {
 }
 
 function set_theme_label(theme){
-    if(theme == "Yaru-blue") {
+    if(theme == "Yaru-remix") {
         this.themeMenu.label.text = "Standard Theme";
         this.themeMenu.icon.icon_name = "weather-few-clouds-symbolic";
 
-    } else if (theme == "Yaru-blue-light") {
+    } else if (theme == "Yaru-remix-light") {
         this.themeMenu.label.text = "Light Theme";
         this.themeMenu.icon.icon_name = "weather-clear-symbolic";
 
     }
-    else if (theme == "Yaru-blue-dark") {
+    else if (theme == "Yaru-remix-dark") {
         this.themeMenu.label.text = "Dark Theme"
         this.themeMenu.icon.icon_name = "weather-clear-night-symbolic";
 

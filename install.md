@@ -1,4 +1,4 @@
-### install yaru-blue-theme-toggle:
+### install yaru-remix-theme-toggle:
 
 The extension can be installed directly from source, either for the convenience of using git or to test the latest development version.
 
@@ -9,18 +9,18 @@ The extension can be installed directly from source, either for the convenience 
 ```
 - Install the User-themes extension from [here](https://extensions.gnome.org/extension/19/user-themes/).
 
-- Install [Yaru-blue](https://github.com/Muqtxdir/yaru-blue) 
+- Install [Yaru-remix](https://github.com/Muqtxdir/yaru-remix) 
 
 ### Install:
 
-- To install all yaru-blue-theme-toggle, simply run the following.
+- To install all yaru-remix-theme-toggle, simply run the following.
 
 ```
-git clone https://github.com/Muqtxdir/yaru-blue-theme-toggle.git
+git clone https://github.com/Muqtxdir/yaru-remix-theme-toggle.git
 ```
 
 ```
-cd yaru-blue-theme-toggle
+cd yaru-remix-theme-toggle
 ```
 
 ```
@@ -33,14 +33,14 @@ sudo ninja install
 
 - After install, a logout  or shell-restart (ALt+F2 => r) is required
 
-- Enable *Yaru-blue-theme-toogle* with **GNOME-Tweaks** or  **extensions** or **dconf**
+- Enable *Yaru-remix-theme-toogle* with **GNOME-Tweaks** or  **extensions** or **dconf**
 
 ### Uninstall:
 
-- To uninstall all yaru-blue-theme-toggle, simply run the following.
+- To uninstall all yaru-remix-theme-toggle, simply run the following.
 
 ```bash
- cd yaru-blue-theme-toggle
+ cd yaru-remix-theme-toggle
 
  cd build
 

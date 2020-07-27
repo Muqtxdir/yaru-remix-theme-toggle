@@ -1,0 +1,15 @@
+{
+	"name": "Yaru-remix Theme Toggle",
+	"authors": [
+        "muqtadir5555@gmail.com"
+    ],
+	"description": "Switches GTK3, Gnome-shell and icon themes to Yaru-remix variants",
+	"version": "20.04",
+	"uuid": "yaru-remix-theme-toggle@muqtxdir.me",
+	"url": "https://github.com/Muqtxdir/yaru-remix-theme-toggle",
+	"shell-version": [
+		"3.32",
+		"3.34",
+		"3.36"
+	]
+}

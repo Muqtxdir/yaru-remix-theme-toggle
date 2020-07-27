@@ -1,2 +1,2 @@
-option('yarubluethemetoggle', type: 'boolean', value: true, description:'build gnome shell extension component')
+option('yaruremixthemetoggle', type: 'boolean', value: true, description:'build gnome shell extension component')
 

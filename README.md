@@ -1,11 +1,13 @@
-## Yaru-blue-theme-toggle
+## Yaru-remix-theme-toggle
 
-Yaru-blue-theme-toggle is a gnome-shell-extension.
+	![yaru-remix-toggle](screenshots/lyaru-remix-toggle.png)
+
+Yaru-remix-theme-toggle is a gnome-shell-extension.
 
 ## Functions:
-- Switches from any **GTK3-theme** to [Yaru-blue](https://github.com/Muqtxdir/yaru-blue) **GTK3-themes**.
-- Switches from any **Gnome-shell-theme** to [Yaru-blue](https://github.com/Muqtxdir/yaru-blue) **Gnome-shell themes**.
-- Switches from any **icon-theme** to [Yaru-blue](https://github.com/Muqtxdir/yaru-blue) **icon-themes**.
+- Switches from any **GTK3-theme** to [Yaru-remix](https://github.com/Muqtxdir/yaru-remix) **GTK3-themes**.
+- Switches from any **Gnome-shell-theme** to [Yaru-remix](https://github.com/Muqtxdir/yaru-remix) **Gnome-shell themes**.
+- Switches from any **icon-theme** to [Yaru-remix](https://github.com/Muqtxdir/yaru-remix) **icon-themes**.
 
 ## Installation:
 If you would like to try this gnome-shell-extension, please follow instructions from [here](install.md).
@@ -13,14 +15,14 @@ If you would like to try this gnome-shell-extension, please follow instructions 
 ## Screenshots:
 
 ### Extension in Menu:
-![yaru-blue-theme-toggle-extension](screenshots/yaru-blue-theme-toggle-extension.png)
+![yaru-remix-theme-toggle-extension](screenshots/yaru-remix-theme-toggle-extension.png)
 
-### Switching to Yaru-blue-light:
+### Switching to Yaru-remix-light:
 ![light](screenshots/light.png)
 
-### Switching to Yaru-blue-standard:
+### Switching to Yaru-remix-standard:
 ![standard](screenshots/default.png)
 
-### Switching to Yaru-blue-dark:
+### Switching to Yaru-remix-dark:
 ![dark](screenshots/dark.png)
 
