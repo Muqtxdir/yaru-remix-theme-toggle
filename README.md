@@ -2,7 +2,7 @@
 
 ![yaru-remix-toggle](screenshots/yaru-remix-toggle.png)
 
-Yaru-remix-theme-toggle is a gnome-shell-extension.
+Yaru-remix-theme-toggle is a based on [Pop-toggle](https://github.com/kylecorry31/gnome-shell-extension-pop-theme-toggle)
 
 ## Functions:
 - Switches from any **GTK3-theme** to [Yaru-remix](https://github.com/Muqtxdir/yaru-remix) **GTK3-themes**.
