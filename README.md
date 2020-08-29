@@ -11,17 +11,4 @@ Yaru-remix-theme-toggle is a based on [Pop-toggle](https://github.com/kylecorry3
 ## Installation:
 If you would like to try this gnome-shell-extension, please follow instructions from [here](install.md).
 
-## Screenshots:
-
-### Extension in Menu:
-![yaru-remix-theme-toggle-extension](screenshots/yaru-remix-theme-toggle.png)
-
-### Switching to Yaru-remix-light:
-![light](screenshots/light.png)
-
-### Switching to Yaru-remix-standard:
-![standard](screenshots/default.png)
-
-### Switching to Yaru-remix-dark:
-![dark](screenshots/dark.png)
 
