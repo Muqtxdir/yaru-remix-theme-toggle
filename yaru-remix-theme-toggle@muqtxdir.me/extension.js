@@ -77,6 +77,8 @@ function set_user_theme(theme) {
 
 function set_user_icon_theme(theme) {
     Util.trySpawn(["dconf", "write", "/org/gnome/desktop/interface/icon-theme", "'" + theme +"'"]);
+    Util.trySpawn(["dconf", "write", "/org/gnome/desktop/interface/cursor-theme", "'" + theme +"'"]);
+
 }
 
 function reset_ornament() {
