@@ -65,13 +65,13 @@ function set_theme_label(theme){
     }
 }
 
-function set_gtk_theme(theme) {
+function set_user_theme(theme) {
     Main.setThemeStylesheet("/usr/share/themes/"+theme+"/gnome-shell/gnome-shell.css");
     Main.loadTheme();
     Util.trySpawn(["dconf", "write", "/org/gnome/shell/extensions/user-theme/name", "'" + theme +"'"]);
 }
 
-function set_user_theme(theme) {
+function set_gtk_theme(theme) {
     Util.trySpawn(["dconf", "write", "/org/gnome/desktop/interface/gtk-theme", "'" + theme +"'"]);
 }
 
