@@ -34,7 +34,7 @@ cd build
 sudo ninja install
 ```
 
-- After install, a logout  or shell-restart (ALt+F2 => r) is required
+- After install, a logout  is required or shell-restart by <kbd>Alt</kbd> + <kbd>F2</kbd> and then entering <kbd>r</kbd> 
 
 ### Enable yaru-remix-theme-toggle
 
@@ -63,7 +63,7 @@ sudo ninja install
 
  sudo ninja uninstall
 ```
-- After uninstall, a logout  or shell-restart (ALt+F2 => r) is required
+- After uninstall, a logout is required shell-restart by <kbd>Alt</kbd> + <kbd>F2</kbd> and then entering <kbd>r</kbd> 
 
 
-
+*Note: yaru-remix-theme-toggle is installed if you choosed Script-install(simple-installation) from [Yaru-remix](https://github.com/Muqtxdir/yaru-remix)*
